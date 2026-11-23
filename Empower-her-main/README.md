@@ -129,15 +129,4 @@ We welcome contributions!
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-
-- **Team Captain:** Srisha N – srishaurala22@gmail.com
-- **Team Members:**
-  - Tarun N – tarun132004@gmail.com
-  - Varsha M N – varshamanjunath2533@gmail.com
-
 
